@@ -1,0 +1,20 @@
+doctype html
+html
+  head
+    title Add Questions
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+    script(src='javascripts/questions.js')
+
+body
+    .container(style="margin: 0 auto; width: 800px")
+        h1 Add Questions
+        hr
+        button.btn.btn-primary(onclick="addRow()" style="margin-top: 10px; margin-bottom: 10px")
+            span.glyphicon.glyphicon-plus
+        button.btn.btn-primary.pull-right(onclick="addQuestions()" style="margin-top: 10px; margin-bottom: 10px")
+            span.glyphicon.glyphicon-floppy-saved
+        table#question.table.table-hover
+            tbody
