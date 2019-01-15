@@ -1,14 +1,14 @@
 {
     "questions": [
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 4,
                     "content": "歌曲"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "小鳥"
                 },
                 {
@@ -16,36 +16,36 @@
                     "content": "動聽的"
                 },
                 {
-                    "index": 4,
+                    "index": 2,
                     "content": "唱着"
                 },
                 {
-                    "index": 5,
+                    "index": 1,
                     "content": "在樹上"
                 },
                 {
-                    "index": 6,
+                    "index": 5,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
                     "index": 1,
                     "content": "和妹妹"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "我"
                 },
                 {
-                    "index": 3,
+                    "index": 2,
                     "content": "都愛"
                 },
                 {
-                    "index": 4,
+                    "index": 3,
                     "content": "雞腿"
                 },
                 {
@@ -55,39 +55,39 @@
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "飛走了"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "樹上的"
                 },
                 {
-                    "index": 3,
+                    "index": 1,
                     "content": "小鳥"
                 },
                 {
-                    "index": 4,
+                    "index": 3,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "都"
                 },
                 {
-                    "index": 2,
+                    "index": 1,
                     "content": "和我"
                 },
                 {
-                    "index": 3,
+                    "index": 0,
                     "content": "姐姐"
                 },
                 {
@@ -95,103 +95,103 @@
                     "content": "唱歌"
                 },
                 {
-                    "index": 5,
+                    "index": 3,
                     "content": "喜歡"
                 },
                 {
-                    "index": 6,
+                    "index": 5,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "沙灘上"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "小孩子"
                 },
                 {
-                    "index": 3,
+                    "index": 1,
                     "content": "在"
                 },
                 {
-                    "index": 4,
+                    "index": 3,
                     "content": "堆沙"
                 },
                 {
-                    "index": 5,
+                    "index": 4,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "洋娃娃"
                 },
                 {
-                    "index": 2,
+                    "index": 1,
                     "content": "心愛的"
                 },
                 {
-                    "index": 3,
+                    "index": 0,
                     "content": "妹妹"
                 },
                 {
-                    "index": 4,
+                    "index": 3,
                     "content": "不見了"
                 },
                 {
-                    "index": 5,
+                    "index": 4,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "在"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "一尾"
                 },
                 {
-                    "index": 3,
+                    "index": 4,
                     "content": "游來游去"
                 },
                 {
-                    "index": 4,
+                    "index": 1,
                     "content": "小金魚"
                 },
                 {
-                    "index": 5,
+                    "index": 3,
                     "content": "池塘里"
                 },
                 {
-                    "index": 6,
+                    "index": 5,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "sentence",
+            "type": "reorder",
             "data": [
                 {
                     "index": 1,
                     "content": "站在"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "同學們"
                 },
                 {
@@ -199,24 +199,24 @@
                     "content": "等候"
                 },
                 {
-                    "index": 4,
+                    "index": 2,
                     "content": "校門外"
                 },
                 {
-                    "index": 5,
+                    "index": 4,
                     "content": "校車"
                 },
                 {
-                    "index": 6,
+                    "index": 5,
                     "content": "。"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 0,
                     "content": "聖誕節那天，"
                 },
                 {
@@ -224,88 +224,88 @@
                     "content": "大家都玩得很開心。"
                 },
                 {
-                    "index": 3,
+                    "index": 1,
                     "content": "學校舉行聯歡會"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "希望給爸爸一個驚喜。"
                 },
                 {
-                    "index": 2,
+                    "index": 1,
                     "content": "姐姐和我預備了美味的早餐，"
                 },
                 {
-                    "index": 3,
+                    "index": 0,
                     "content": "今天是父親節，"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
                     "index": 1,
                     "content": "就像一雙眼睛，"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "天空中的星星，"
                 },
                 {
-                    "index": 3,
+                    "index": 2,
                     "content": "向我們眨眼。"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
-                    "content": "還能欣賞悅耳的歌曲，"
+                    "index": 2,
+                    "content": "還能欣賞悅耳的歌曲。"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "在音樂會上，"
                 },
                 {
-                    "index": 3,
-                    "content": "我們不但能聽到不同的樂器演奏。"
+                    "index": 1,
+                    "content": "我們不但能聽到不同的樂器演奏，"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "真的很辛苦！"
                 },
                 {
-                    "index": 2,
+                    "index": 1,
                     "content": "我天天都要做功課，"
                 },
                 {
-                    "index": 3,
+                    "index": 0,
                     "content": "暑假的時候，"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "爸媽會帶我到郊外，"
                 },
                 {
-                    "index": 2,
+                    "index": 0,
                     "content": "平日上課的日子很忙碌，"
                 },
                 {
@@ -313,37 +313,37 @@
                     "content": "讓我痛快地玩一天！"
                 },
                 {
-                    "index": 4,
+                    "index": 1,
                     "content": "所以每逢星期六，"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 2,
                     "content": "一同遊戲，"
                 },
                 {
-                    "index": 2,
+                    "index": 3,
                     "content": "十分愉快。"
                 },
                 {
-                    "index": 3,
+                    "index": 0,
                     "content": "小花和小雲是好同學，"
                 },
                 {
-                    "index": 4,
+                    "index": 1,
                     "content": "她們一同學習，"
                 }
             ]
         },
         {
-            "type": "paragraph",
+            "type": "reorder",
             "data": [
                 {
-                    "index": 1,
+                    "index": 3,
                     "content": "我十分開心。"
                 },
                 {
@@ -351,15 +351,14 @@
                     "content": "爸媽買了一輛玩具車給我，"
                 },
                 {
-                    "index": 3,
+                    "index": 1,
                     "content": "我和家人一起逛商場。"
                 },
                 {
-                    "index": 4,
+                    "index": 0,
                     "content": "聖誕假期裏面，"
                 }
             ]
         }
-
     ]
 }
